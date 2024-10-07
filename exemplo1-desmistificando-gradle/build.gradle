@@ -1,0 +1,13 @@
+defaultTasks 'buildTask'
+
+task compileTask{
+    doLast{
+        System.out.println "compiling..."
+    }
+}
+
+task buildTask (dependsOn:compileTask){
+    doLast{
+        System.out.println "building..."
+    }
+}
