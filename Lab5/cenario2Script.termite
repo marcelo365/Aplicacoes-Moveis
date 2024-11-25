@@ -1,0 +1,24 @@
+newdevice N1
+newdevice N2
+list emus
+wait 3
+assignaddr e1
+assignaddr e2
+list emus
+wait 3
+binddevice N1 e1
+binddevice N2 e2
+list devices
+ping
+wait 6
+
+move N1 (N2)
+list neighbors
+commit 
+wait 20
+
+
+move N1 ()
+list neighbors
+commit 
+wait 20
