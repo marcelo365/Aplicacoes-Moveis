@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Termite-WifiP2P-ChatDesafio</string>
+    <string name="port">10001</string>
+</resources>

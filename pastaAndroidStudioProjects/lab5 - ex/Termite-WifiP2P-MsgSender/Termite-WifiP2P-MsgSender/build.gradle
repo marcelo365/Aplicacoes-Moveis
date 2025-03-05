@@ -1,0 +1,38 @@
+buildscript {
+    ext {
+        agp_version = '3.2.0'
+    }
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://plugins.gradle.org/m2/' }  // Repositório alternativo
+
+        flatDir{
+            dirs 'libs'
+        }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$agp_version"
+        classpath 'org.codehaus.groovy:gradle-groovy-android-plugin:0.3.5'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://plugins.gradle.org/m2/' }
+
+        flatDir{
+            dirs 'libs'
+        }
+
+    }
+}
+
+
+task publishDrivers (dependsOn: [':Termite-Cli-CDriver-AVD:publish',
+                                 ':Termite-Cli-CDriver-Genymotion:publish',
+                                 ':Termite-Cli-CDriver-CloudStack:publish']) {
+    description 'Copies the jars of connector drivers to the termite cli.'
+}

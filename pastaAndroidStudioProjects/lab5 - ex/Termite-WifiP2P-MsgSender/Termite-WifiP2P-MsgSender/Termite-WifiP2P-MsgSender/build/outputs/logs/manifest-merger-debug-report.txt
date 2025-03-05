@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\d753b1fa9105e89fd10a4fcd924acbba\AndroidManifest.xml:14:4-17:12
+MERGED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e97ef221cd6e0c705cb3eff243a34bf7\AndroidManifest.xml:14:4-17:12
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\d753b1fa9105e89fd10a4fcd924acbba\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\d753b1fa9105e89fd10a4fcd924acbba\AndroidManifest.xml:16:5-19
+MERGED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:11:5-16:19
+MERGED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e97ef221cd6e0c705cb3eff243a34bf7\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e97ef221cd6e0c705cb3eff243a34bf7\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:15:9-40
+activity#pt.inesc.termite.msgsender.MsgSenderActivity
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:13:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:17:27-74
+service#pt.inesc.termite.wifidirect.service.SimWifiP2pService
+ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:21:9-89
+	android:name
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml:21:18-86
+uses-sdk
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\d753b1fa9105e89fd10a4fcd924acbba\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\d753b1fa9105e89fd10a4fcd924acbba\AndroidManifest.xml:15:5-42
+MERGED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:7:5-9:41
+MERGED from [:Termite-WifiP2P-API:] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\Termite-WifiP2P-API.aar\36a26610d83538a647e1376f9d97e34b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e97ef221cd6e0c705cb3eff243a34bf7\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Marcelo Rocha\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e97ef221cd6e0c705cb3eff243a34bf7\AndroidManifest.xml:15:5-42
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcelo Rocha\AndroidStudioProjects\lab5 - ex\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\Termite-WifiP2P-MsgSender\src\main\AndroidManifest.xml
